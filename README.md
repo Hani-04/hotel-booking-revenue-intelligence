@@ -2,7 +2,7 @@
 
 **Power BI | DAX | Power Query | Hospitality Analytics**
 
-An interactive, three-page Power BI report analysing **119,390 hotel bookings** to investigate cancellation behaviour, booking-value exposure and commercially relevant patterns. The project moves beyond headline cancellation rates by comparing booking segments within more comparable deposit categories and lead-time groups.
+An interactive, three-page Power BI report analysing 119,390 hotel bookings to investigate cancellation behaviour, booking-value exposure and commercially relevant patterns. The project moves beyond headline cancellation rates by comparing booking segments within more comparable deposit categories and lead-time groups.
 
 ## Dashboard Preview
 
@@ -59,11 +59,11 @@ Online TA accounts for approximately **€10.2M** of **€16.73M** in cancellati
 
 ## Technical Implementation
 
-- Prepared and transformed booking data in **Power Query**.
-- Modelled bookings with a **fact table and supporting dimensions** for dates, hotels, channels and market segments.
-- Built reusable **DAX measures** for booking volume, cancellations, rates and booking-value proxies.
-- Developed interactive **heatmaps, slicers, tooltips and risk-versus-exposure visualisations**.
-- Added a **What-if parameter** to illustrate the effect of a hypothetical 0–50% reduction in cancellation-value exposure.
+- Prepared and transformed booking data in Power Query.
+- Modelled bookings with a fact table and supporting dimensions for dates, hotels, channels and market segments.
+- Built reusable DAX measures for booking volume, cancellations, rates and booking-value proxies.
+- Developed interactive heatmaps, slicers, tooltips and risk-versus-exposure visualisations.
+- Added a What-if parameter to illustrate the effect of a hypothetical 0–50% reduction in cancellation-value exposure.
 
 ### Scenario Modelling
 
@@ -79,7 +79,7 @@ Scenario Cancellation Exposure =
 [Cancellation Value Exposure] - [Potential Value Retained]
 ```
 
-This is **illustrative scenario analysis, not a forecast**. It does not model refunds, replacement bookings, cancellation fees or operating costs.
+This is illustrative scenario analysis, not a forecast. It does not model refunds, replacement bookings, cancellation fees or operating costs.
 
 ## Project Documentation
 
