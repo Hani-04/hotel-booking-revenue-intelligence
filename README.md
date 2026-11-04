@@ -83,7 +83,7 @@ This is illustrative scenario analysis, not a forecast. It does not model refund
 
 ## Project Documentation
 
-- **[DAX Measures](DAX_Measures.md)** — measure definitions and calculation logic.
+- **[DAX Measures](DAX_measures.md)** — measure definitions and calculation logic.
 - **[Research & Validation Log](Hotel_Booking_Insights_Research_Log.md)** — investigation history, supporting figures, caveats and recommendations.
 - **[Power BI Report](Hotel_Booking_Revenue_Intelligence.pbix)** — interactive report for Power BI Desktop.
 
