@@ -1,6 +1,6 @@
 # Hotel Booking & Revenue Intelligence
 
-**Power BI | DAX | Power Query | Hospitality Analytics**
+**Power BI | DAX | Power Query | Data Analytics**
 
 An interactive, three-page Power BI report analysing 119,390 hotel bookings to investigate cancellation behaviour, booking-value exposure and commercially relevant patterns. The project moves beyond headline cancellation rates by comparing booking segments within more comparable deposit categories and lead-time groups.
 
